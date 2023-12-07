@@ -1,0 +1,14 @@
+D:\Projects\Vjezba27112023\Vjezba27112023\bin\Debug\net8.0\Vjezba27112023.exe
+D:\Projects\Vjezba27112023\Vjezba27112023\bin\Debug\net8.0\Vjezba27112023.deps.json
+D:\Projects\Vjezba27112023\Vjezba27112023\bin\Debug\net8.0\Vjezba27112023.runtimeconfig.json
+D:\Projects\Vjezba27112023\Vjezba27112023\bin\Debug\net8.0\Vjezba27112023.dll
+D:\Projects\Vjezba27112023\Vjezba27112023\bin\Debug\net8.0\Vjezba27112023.pdb
+D:\Projects\Vjezba27112023\Vjezba27112023\obj\Debug\net8.0\Vjezba27112023.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Vjezba27112023\Vjezba27112023\obj\Debug\net8.0\Vjezba27112023.AssemblyInfoInputs.cache
+D:\Projects\Vjezba27112023\Vjezba27112023\obj\Debug\net8.0\Vjezba27112023.AssemblyInfo.cs
+D:\Projects\Vjezba27112023\Vjezba27112023\obj\Debug\net8.0\Vjezba27112023.csproj.CoreCompileInputs.cache
+D:\Projects\Vjezba27112023\Vjezba27112023\obj\Debug\net8.0\Vjezba27112023.dll
+D:\Projects\Vjezba27112023\Vjezba27112023\obj\Debug\net8.0\refint\Vjezba27112023.dll
+D:\Projects\Vjezba27112023\Vjezba27112023\obj\Debug\net8.0\Vjezba27112023.pdb
+D:\Projects\Vjezba27112023\Vjezba27112023\obj\Debug\net8.0\Vjezba27112023.genruntimeconfig.cache
+D:\Projects\Vjezba27112023\Vjezba27112023\obj\Debug\net8.0\ref\Vjezba27112023.dll

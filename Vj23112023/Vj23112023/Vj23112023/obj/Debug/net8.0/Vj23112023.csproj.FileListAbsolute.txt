@@ -1,0 +1,14 @@
+D:\Projects\Vj23112023\Vj23112023\bin\Debug\net8.0\Vj23112023.exe
+D:\Projects\Vj23112023\Vj23112023\bin\Debug\net8.0\Vj23112023.deps.json
+D:\Projects\Vj23112023\Vj23112023\bin\Debug\net8.0\Vj23112023.runtimeconfig.json
+D:\Projects\Vj23112023\Vj23112023\bin\Debug\net8.0\Vj23112023.dll
+D:\Projects\Vj23112023\Vj23112023\bin\Debug\net8.0\Vj23112023.pdb
+D:\Projects\Vj23112023\Vj23112023\obj\Debug\net8.0\Vj23112023.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Vj23112023\Vj23112023\obj\Debug\net8.0\Vj23112023.AssemblyInfoInputs.cache
+D:\Projects\Vj23112023\Vj23112023\obj\Debug\net8.0\Vj23112023.AssemblyInfo.cs
+D:\Projects\Vj23112023\Vj23112023\obj\Debug\net8.0\Vj23112023.csproj.CoreCompileInputs.cache
+D:\Projects\Vj23112023\Vj23112023\obj\Debug\net8.0\Vj23112023.dll
+D:\Projects\Vj23112023\Vj23112023\obj\Debug\net8.0\refint\Vj23112023.dll
+D:\Projects\Vj23112023\Vj23112023\obj\Debug\net8.0\Vj23112023.pdb
+D:\Projects\Vj23112023\Vj23112023\obj\Debug\net8.0\Vj23112023.genruntimeconfig.cache
+D:\Projects\Vj23112023\Vj23112023\obj\Debug\net8.0\ref\Vj23112023.dll

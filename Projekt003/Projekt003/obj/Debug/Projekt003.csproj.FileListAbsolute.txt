@@ -1,0 +1,7 @@
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt003\Projekt003\obj\Debug\Projekt003.csproj.AssemblyReference.cache
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt003\Projekt003\obj\Debug\Projekt003.csproj.CoreCompileInputs.cache
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt003\Projekt003\bin\Debug\Projekt003.exe.config
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt003\Projekt003\bin\Debug\Projekt003.exe
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt003\Projekt003\bin\Debug\Projekt003.pdb
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt003\Projekt003\obj\Debug\Projekt003.exe
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt003\Projekt003\obj\Debug\Projekt003.pdb

@@ -1,0 +1,7 @@
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt002\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt002\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt002\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt002\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt002\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt002\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Projekt002\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
