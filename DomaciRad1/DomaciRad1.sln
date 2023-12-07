@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomaciRad1", "DomaciRad1\DomaciRad1.csproj", "{35034103-A12E-43DB-AE1E-0A63C533C883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35034103-A12E-43DB-AE1E-0A63C533C883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35034103-A12E-43DB-AE1E-0A63C533C883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35034103-A12E-43DB-AE1E-0A63C533C883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35034103-A12E-43DB-AE1E-0A63C533C883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F0ADD14-3F1E-4C3B-A6C0-78760737A380}
+	EndGlobalSection
+EndGlobal

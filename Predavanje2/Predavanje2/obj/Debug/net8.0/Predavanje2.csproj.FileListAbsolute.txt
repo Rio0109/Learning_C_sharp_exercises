@@ -1,0 +1,14 @@
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\bin\Debug\net8.0\Predavanje2.exe
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\bin\Debug\net8.0\Predavanje2.deps.json
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\bin\Debug\net8.0\Predavanje2.runtimeconfig.json
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\bin\Debug\net8.0\Predavanje2.dll
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\bin\Debug\net8.0\Predavanje2.pdb
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\obj\Debug\net8.0\Predavanje2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\obj\Debug\net8.0\Predavanje2.AssemblyInfoInputs.cache
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\obj\Debug\net8.0\Predavanje2.AssemblyInfo.cs
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\obj\Debug\net8.0\Predavanje2.csproj.CoreCompileInputs.cache
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\obj\Debug\net8.0\Predavanje2.dll
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\obj\Debug\net8.0\refint\Predavanje2.dll
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\obj\Debug\net8.0\Predavanje2.pdb
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\obj\Debug\net8.0\Predavanje2.genruntimeconfig.cache
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\Predavanje2\Predavanje2\obj\Debug\net8.0\ref\Predavanje2.dll

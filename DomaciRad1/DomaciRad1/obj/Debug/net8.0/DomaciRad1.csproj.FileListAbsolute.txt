@@ -1,0 +1,14 @@
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\obj\Debug\net8.0\DomaciRad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\obj\Debug\net8.0\DomaciRad1.AssemblyInfoInputs.cache
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\obj\Debug\net8.0\DomaciRad1.AssemblyInfo.cs
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\obj\Debug\net8.0\DomaciRad1.csproj.CoreCompileInputs.cache
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\bin\Debug\net8.0\DomaciRad1.exe
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\bin\Debug\net8.0\DomaciRad1.deps.json
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\bin\Debug\net8.0\DomaciRad1.runtimeconfig.json
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\bin\Debug\net8.0\DomaciRad1.dll
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\bin\Debug\net8.0\DomaciRad1.pdb
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\obj\Debug\net8.0\DomaciRad1.dll
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\obj\Debug\net8.0\refint\DomaciRad1.dll
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\obj\Debug\net8.0\DomaciRad1.pdb
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\obj\Debug\net8.0\DomaciRad1.genruntimeconfig.cache
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\DomaciRad1\DomaciRad1\obj\Debug\net8.0\ref\DomaciRad1.dll
