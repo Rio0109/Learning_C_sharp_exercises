@@ -1,0 +1,14 @@
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\bin\Debug\net8.0\SoloVjezba13_12_23.exe
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\bin\Debug\net8.0\SoloVjezba13_12_23.deps.json
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\bin\Debug\net8.0\SoloVjezba13_12_23.runtimeconfig.json
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\bin\Debug\net8.0\SoloVjezba13_12_23.dll
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\bin\Debug\net8.0\SoloVjezba13_12_23.pdb
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\obj\Debug\net8.0\SoloVjezba13_12_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\obj\Debug\net8.0\SoloVjezba13_12_23.AssemblyInfoInputs.cache
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\obj\Debug\net8.0\SoloVjezba13_12_23.AssemblyInfo.cs
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\obj\Debug\net8.0\SoloVjezba13_12_23.csproj.CoreCompileInputs.cache
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\obj\Debug\net8.0\SoloVjezba13_12_23.dll
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\obj\Debug\net8.0\refint\SoloVjezba13_12_23.dll
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\obj\Debug\net8.0\SoloVjezba13_12_23.pdb
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\obj\Debug\net8.0\SoloVjezba13_12_23.genruntimeconfig.cache
+C:\Users\Rio\OneDrive\Radna površina\Algebra\Vjezbe_C#\SoloVjezba13_12_23\SoloVjezba13_12_23\obj\Debug\net8.0\ref\SoloVjezba13_12_23.dll
